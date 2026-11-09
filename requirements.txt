@@ -1,0 +1,1 @@
+Für Tkinter brauchst du normalerweise keine zusätzlichen Pakete: ```txt # Standardbibliothek
