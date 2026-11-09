@@ -1,3 +1,3 @@
 # supermarkt-kasse
 
-![alt text](image.png)
+<img width="2715" height="2268" alt="grafik" src="https://github.com/user-attachments/assets/e41af97b-5eb4-4333-9eb9-df3863626ab8" />
